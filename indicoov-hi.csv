@@ -1,0 +1,608 @@
+word,type,domain,language
+ओएनजीसी,OOD,abbreviations,hi
+जीईएफ,OOD,abbreviations,hi
+ईडीयूएसएटी,OOD,abbreviations,hi
+डीओडी,OOD,abbreviations,hi
+ओएमसीएस,OOD,abbreviations,hi
+पीआरओ,OOD,abbreviations,hi
+एनआईसी,OOD,abbreviations,hi
+ओइसीडी,OOD,abbreviations,hi
+एसएलआर,OOD,abbreviations,hi
+एफआरबीएम,OOD,abbreviations,hi
+सीवीआरडीई,OOD,abbreviations,hi
+एआरसी,OOD,abbreviations,hi
+एफआईएमएमडीए,OOD,abbreviations,hi
+यूएनएफपीए,OOD,abbreviations,hi
+एएससीआईआई,OOD,abbreviations,hi
+डब्ल्यूएमओ,OOD,abbreviations,hi
+वीओआईपी,OOD,abbreviations,hi
+एचएडब्ल्यूएस,OOD,abbreviations,hi
+ईआरएनईटी,OOD,abbreviations,hi
+एमआईबीओआर,OOD,abbreviations,hi
+यूएनडीपी,OOD,abbreviations,hi
+एसक्यूयूआईडी,OOD,abbreviations,hi
+ईजीओएम,OOD,abbreviations,hi
+एलटीटीई,OOD,abbreviations,hi
+एफपीएसबी,OOD,abbreviations,hi
+ओएक्सएमएल,OOD,abbreviations,hi
+वाईडब्ल्यूसीए,OOD,abbreviations,hi
+एमपीईजी,OOD,abbreviations,hi
+एआरपी,OOD,abbreviations,hi
+डीबीओडी,OOD,abbreviations,hi
+डब्ल्यूएपी,OOD,abbreviations,hi
+एमयूएनओ,OOD,abbreviations,hi
+जेडएस,OOD,abbreviations,hi
+सीएबीई,OOD,abbreviations,hi
+यूएवी,OOD,abbreviations,hi
+यूएनएचसीआर,OOD,abbreviations,hi
+ओएसडी,OOD,abbreviations,hi
+एफसीएनआर,OOD,abbreviations,hi
+डब्ल्यूएफटीयू,OOD,abbreviations,hi
+एसआरई,OOD,abbreviations,hi
+क्यूएमजी,OOD,abbreviations,hi
+ऑल एमएस,OOD,abbreviations,hi
+जेपीईजी,OOD,abbreviations,hi
+एचएमटी,OOD,abbreviations,hi
+आरएलओ,OOD,abbreviations,hi
+टीआईएफआर,OOD,abbreviations,hi
+एनएफओ,OOD,abbreviations,hi
+आईएसओ,OOD,abbreviations,hi
+एमएफआईएन,OOD,abbreviations,hi
+आरआरपीआई,OOD,abbreviations,hi
+एमसीए,ID,abbreviations,hi
+आरएलवी,ID,abbreviations,hi
+डी. पी. पी.,ID,abbreviations,hi
+जीपीआरएस,ID,abbreviations,hi
+एपीएम,ID,abbreviations,hi
+एटी एंड टी,ID,abbreviations,hi
+केपीओ,ID,abbreviations,hi
+बी सी,ID,abbreviations,hi
+जीएसपी,ID,abbreviations,hi
+एसीयू,ID,abbreviations,hi
+डीएमए,ID,abbreviations,hi
+सीएजी,ID,abbreviations,hi
+आईबीआरडी,ID,abbreviations,hi
+टीटीएफ,ID,abbreviations,hi
+जीआईएसटी,ID,abbreviations,hi
+जीओसी,ID,abbreviations,hi
+नाबार्ड,ID,abbreviations,hi
+एचवीडीसी,ID,abbreviations,hi
+एमआरटीएस,ID,abbreviations,hi
+हुडको,ID,abbreviations,hi
+डब्ल्यूडीएफ,ID,abbreviations,hi
+एएससीआई,ID,abbreviations,hi
+बीओटी,ID,abbreviations,hi
+एसडीएफ,ID,abbreviations,hi
+सीबीएस,ID,abbreviations,hi
+यूनेस्को,ID,abbreviations,hi
+पीएसएलवी,ID,abbreviations,hi
+वाईएमसीए,ID,abbreviations,hi
+जीएनएसएस,ID,abbreviations,hi
+नाफेड,ID,abbreviations,hi
+जीपीएफ़,ID,abbreviations,hi
+एलएमजी,ID,abbreviations,hi
+सीआरपीएफ,ID,abbreviations,hi
+नाफ्टा,ID,abbreviations,hi
+ओबीयू,ID,abbreviations,hi
+बीओपी,ID,abbreviations,hi
+एलएलपी,ID,abbreviations,hi
+निफ्ट,ID,abbreviations,hi
+एनईएफटी,ID,abbreviations,hi
+एसआरवी,ID,abbreviations,hi
+मनरेगा,ID,abbreviations,hi
+नैस्डैक,ID,abbreviations,hi
+एनईजीपी,ID,abbreviations,hi
+एफडीआई,ID,abbreviations,hi
+यूजीसी,ID,abbreviations,hi
+एसपीजी,ID,abbreviations,hi
+एनडब्ल्यूआरसी,ID,abbreviations,hi
+एनटीपीसी,ID,abbreviations,hi
+डीएमआईसी,ID,abbreviations,hi
+नेचरलैंड ऑर्गॅनिक्स,OOD,brands,hi
+फ्यूचर ऑर्गॅनिक्स,OOD,brands,hi
+हॅप्पिलो,OOD,brands,hi
+बिअर्डो,OOD,brands,hi
+गुडडाइऐट,OOD,brands,hi
+सफ़फ़ोला फिट्टीफाय,OOD,brands,hi
+डाईऊ,OOD,brands,hi
+चिज़ज़पा,OOD,brands,hi
+मिल्टन स्पॉटज़ीरो,OOD,brands,hi
+तिमिओस,OOD,brands,hi
+टैंक हथौड़े से बना ताम्बा मटका,OOD,brands,hi
+रैखिक एलईडी लैंप,OOD,brands,hi
+पीनेवाला चॉकलेट चूर्ण,OOD,brands,hi
+मच्छर प्रतिरोधी फ़ैब्रिक रोल-ऑन,OOD,brands,hi
+12 वाट्ट एलईडी बल्ब,OOD,brands,hi
+ब्रश टिप आईलाइनर,OOD,brands,hi
+ईख की डंडियां,OOD,brands,hi
+चॉकलेट गेहूं के गुच्छे,OOD,brands,hi
+आईलिफ्ट आँख के नीचे लगाने का क्रीम जेल,OOD,brands,hi
+कूल कैफ़े पेय,OOD,brands,hi
+क्लासिक दूध चॉकलेट कैंडी,OOD,brands,hi
+छना हुआ मूंगफली का तेल,OOD,brands,hi
+षट्भुज पेडल मुद्रित प्लास्टिक कूड़ेदान,OOD,brands,hi
+ऐज मिरेकल रिंकल करेक्टर डे क्रीम,OOD,brands,hi
+लाइफस्टाइल स्टेनलेस स्टील फ्लास्क,OOD,brands,hi
+एक्सोटिक डार्क गर्म चॉकलेट पेय चूर्ण मिश्रण,OOD,brands,hi
+कोको हेज़लनट क्रीम चॉकलेट स्प्रेड,OOD,brands,hi
+बॉडी डिओडोरेंट,OOD,brands,hi
+स्टील षटकोणीय कपड़ा हैंगर,OOD,brands,hi
+रेवड़ी,OOD,brands,hi
+प्लास्टिक एलिगेंट क्लॉथ क्लिप,OOD,brands,hi
+फल चाक़ू,OOD,brands,hi
+आफ़्टर बाईट रोल औन,OOD,brands,hi
+ऑर्गेनिक मसाला टोफू सोया पनीर,OOD,brands,hi
+बॉडीलिसियस डिओडोरेंट स्प्रे,OOD,brands,hi
+मुफ़्फ़िन बेकिंग पेपर कप,OOD,brands,hi
+क्लासिक मूंगफली का मक्खन क्रंच,OOD,brands,hi
+फनफूड्स मूंगफली मक्खन क्रंची,OOD,brands,hi
+लोचदार रस्सी,OOD,brands,hi
+बांस की लकड़ी से बनी चॉपस्टिक,OOD,brands,hi
+माल्ट आधारित चॉकलेट पेय पाउडर,OOD,brands,hi
+बच्चों के इलेक्ट्रिक रिचार्जेबल टूथब्रश,OOD,brands,hi
+बोरबोन चॉक्लेट क्रीम बिस्कुट,OOD,brands,hi
+ऑर्गेनिक सब्ज़ी टोफू सोया पनीर,OOD,brands,hi
+स्विफ्ट प्लास्टिक क्लॉथ हैंगर,OOD,brands,hi
+इंस्टिंक्ट डिओडोरेंट स्प्रे,OOD,brands,hi
+स्टार एलईडी पर्दा प्रीमियम सजावट,OOD,brands,hi
+पावर बैंक के साथ पोर्टेबल एलईडी टॉर्च,OOD,brands,hi
+एलईडी दिए के आकार की स्ट्रिंग लाइट्स,OOD,brands,hi
+मूल मूंगफली का मक्खन,OOD,brands,hi
+ईख विसारक तेल,OOD,brands,hi
+फूल,ID,brands,hi
+बूटीक्स,ID,brands,hi
+गुच्छे,ID,brands,hi
+पेय पदार्थ,ID,brands,hi
+मसाला डालने के पदार्थ,ID,brands,hi
+मट्टन पदार्थ,ID,brands,hi
+फल,ID,brands,hi
+सब्ज़ियां,ID,brands,hi
+वेगन पदार्थ,ID,brands,hi
+माँसाहारी पदार्थ,ID,brands,hi
+शाकाहारी वस्तुएं,ID,brands,hi
+मैरिनेडस,ID,brands,hi
+बेकरी,ID,brands,hi
+नाश्ता,ID,brands,hi
+दूध से बनी वस्तुएं,ID,brands,hi
+अंडे,ID,brands,hi
+पूरक वस्तुएँ,ID,brands,hi
+बोतलें,ID,brands,hi
+त्योहार का सामान,ID,brands,hi
+स्नानघर के बर्तन,ID,brands,hi
+मुख्य खाद्य पदार्थ,ID,brands,hi
+मिठाईयां,ID,brands,hi
+फ्रेशनर वस्तुएं,ID,brands,hi
+इत्र,ID,brands,hi
+चाय का सामान,ID,brands,hi
+चिचिण्डा,ID,brands,hi
+प्याला और तश्तरी,ID,brands,hi
+जग-कूल सील जल जग,ID,brands,hi
+बच्चे को उठाए रखने के लिए प्रयुक्त झोला,ID,brands,hi
+कपड़े खूंटे क्लिप,ID,brands,hi
+धनिये के पत्ते,ID,brands,hi
+शक्कर रहित च्युइंग गम,ID,brands,hi
+सूखे और क्षतिग्रस्त बालों के लिए हेयर स्पा,ID,brands,hi
+चौलाई चिक्की,ID,brands,hi
+दाढ़ी बढ़ाने का तेल,ID,brands,hi
+गाड़ी हवा फ़्रेशेनेर,ID,brands,hi
+आर्गेनिक दही,ID,brands,hi
+आयुर्वृद्धि विरोधक रात को लगनेवाली क्रीम,ID,brands,hi
+थिक एंड फ़ुल्ल शैम्पू,ID,brands,hi
+ऐकनो फाइट फेसवाश,ID,brands,hi
+कड़क मसाला चाय झटपट चाय,ID,brands,hi
+क्रिसमस सजावटी घंटियां,ID,brands,hi
+बंबई मिश्रण,ID,brands,hi
+च्यवनप्रकाश,ID,brands,hi
+इंसुलेटेड चपाती कैसेरोल,ID,brands,hi
+आलू भुजिया,ID,brands,hi
+गुलदाउदी पूजा मोला,ID,brands,hi
+प्लास्टिक मल्टीफंक्शनल स्टोरेज बॉक्स,ID,brands,hi
+हेज़लनट के साथ कुरकुरे स्प्रेड,ID,brands,hi
+गंध हटानेवाला,ID,brands,hi
+मलाईदार दूध बार,ID,brands,hi
+ऑर्डर,OOD,code_mixed,hi
+वर्कआउट,OOD,code_mixed,hi
+ऑमलेट,OOD,code_mixed,hi
+चेकअप,OOD,code_mixed,hi
+एग्ज़ैक्ट,OOD,code_mixed,hi
+क्रेऑन्स,OOD,code_mixed,hi
+पिकअप,OOD,code_mixed,hi
+मैकअप,OOD,code_mixed,hi
+ऐज,OOD,code_mixed,hi
+ओन्ली,OOD,code_mixed,hi
+पेज़ैप,OOD,code_mixed,hi
+स्टडीज़,OOD,code_mixed,hi
+मिक्स-अप,OOD,code_mixed,hi
+मुफ़्त,OOD,code_mixed,hi
+डाइऑक्साइड,OOD,code_mixed,hi
+शफिशंट,OOD,code_mixed,hi
+टच,OOD,code_mixed,hi
+चेकआउट,OOD,code_mixed,hi
+ऑइल,OOD,code_mixed,hi
+फ़िल-अप,OOD,code_mixed,hi
+बैकअप,OOD,code_mixed,hi
+ऑल,OOD,code_mixed,hi
+काॅम्बिनेशन,OOD,code_mixed,hi
+आईडेंटिफाई,OOD,code_mixed,hi
+स्टार्टअप,OOD,code_mixed,hi
+क्लोज़-अप,OOD,code_mixed,hi
+ऐनेलिस्ट,OOD,code_mixed,hi
+ऐमजॉन,OOD,code_mixed,hi
+यूज़ूअल,OOD,code_mixed,hi
+नाइफ,OOD,code_mixed,hi
+ऐट,OOD,code_mixed,hi
+आउटडोर,OOD,code_mixed,hi
+ऐड,OOD,code_mixed,hi
+वौइस,OOD,code_mixed,hi
+स्टडी,OOD,code_mixed,hi
+हैडफ़ोन,OOD,code_mixed,hi
+एन्टीऑक्सीडेंट,OOD,code_mixed,hi
+वाइफ,OOD,code_mixed,hi
+ऑरेंज,OOD,code_mixed,hi
+ऐज़,OOD,code_mixed,hi
+आई-फ़ोन,OOD,code_mixed,hi
+फेसिअल,OOD,code_mixed,hi
+लाइफ़,OOD,code_mixed,hi
+ब्राईडल,OOD,code_mixed,hi
+लॉगइन,OOD,code_mixed,hi
+एडजस्ट,OOD,code_mixed,hi
+लोअर,OOD,code_mixed,hi
+आउट,OOD,code_mixed,hi
+एक्सर्साइज़,ID,code_mixed,hi
+व्यू,ID,code_mixed,hi
+इयर,ID,code_mixed,hi
+स्मेल,ID,code_mixed,hi
+कंफर्म,ID,code_mixed,hi
+फैशन,ID,code_mixed,hi
+बाउंड्री,ID,code_mixed,hi
+लॉस,ID,code_mixed,hi
+अवेयरनेस,ID,code_mixed,hi
+अदर,ID,code_mixed,hi
+शुगर,ID,code_mixed,hi
+रिज़ल्ट,ID,code_mixed,hi
+डाइक्लोवीन,ID,code_mixed,hi
+ब्लॉक,ID,code_mixed,hi
+सेनिटाइज़र,ID,code_mixed,hi
+हैंडीक्राफ्ट,ID,code_mixed,hi
+लाइब्रेरीस,ID,code_mixed,hi
+कोर्ट,ID,code_mixed,hi
+ईको,ID,code_mixed,hi
+होबीस,ID,code_mixed,hi
+मैन्स,ID,code_mixed,hi
+टेप,ID,code_mixed,hi
+बैडरूम,ID,code_mixed,hi
+रबड़,ID,code_mixed,hi
+एग्स,ID,code_mixed,hi
+एयरटेल,ID,code_mixed,hi
+रिटर्न,ID,code_mixed,hi
+लीक,ID,code_mixed,hi
+सीजनल,ID,code_mixed,hi
+मूवी,ID,code_mixed,hi
+एक्सक्लूसिव,ID,code_mixed,hi
+कम्पेयर,ID,code_mixed,hi
+पेंशन,ID,code_mixed,hi
+स्कोर,ID,code_mixed,hi
+एट,ID,code_mixed,hi
+पंचिंग,ID,code_mixed,hi
+टाइम्स,ID,code_mixed,hi
+बस,ID,code_mixed,hi
+क्वालिफ़ीकेशन,ID,code_mixed,hi
+इंटीरियर,ID,code_mixed,hi
+बर्नर,ID,code_mixed,hi
+रेसेपी,ID,code_mixed,hi
+बोतल,ID,code_mixed,hi
+फोम,ID,code_mixed,hi
+अटैच,ID,code_mixed,hi
+कैरेट,ID,code_mixed,hi
+सेवन,ID,code_mixed,hi
+लक्ष्मी ऑर्गेनिक इंडस्ट्रीज़ लिमिटेड,OOD,company_names,hi
+केईआई इंडस्ट्रीज़ लिमिटेड,OOD,company_names,hi
+आईआरबी इंफ्रास्ट्रक्चर डेवेलपर्स लिमिटेड,OOD,company_names,hi
+आईएसजीईसी हैवी इंजीनियरिंग लिमिटेड,OOD,company_names,hi
+सीईएट लिमिटेड,OOD,company_names,hi
+बीईएमएल लिमिटेड,OOD,company_names,hi
+टाइड वॉटर ऑयल कंपनी लिमिटेड,OOD,company_names,hi
+आरएचआई मैग्नेसिया इंडिया लिमिटेड,OOD,company_names,hi
+एचएलई ग्लासकोट लिमिटेड,OOD,company_names,hi
+एमओआईएल लिमिटेड,OOD,company_names,hi
+एमटीएआर टेक्नोलॉजीज़ लिमिटेड,OOD,company_names,hi
+फेडएक्स,OOD,company_names,hi
+मेटलाइफ,OOD,company_names,hi
+बोइंग,OOD,company_names,hi
+न्यू यॉर्क लाइफ इंश्योरेंस,OOD,company_names,hi
+ऑलस्टेट,OOD,company_names,hi
+सीएचएस,OOD,company_names,hi
+मासाचुसेट्स म्युचुअल लाइफ इंश्योरेंस,OOD,company_names,hi
+एचएफ सिंक्लेयर,OOD,company_names,hi
+यूएस फूड्स होल्डिंग,OOD,company_names,hi
+एनआरजी एनर्जी,OOD,company_names,hi
+सीबीआरई ग्रुप,OOD,company_names,hi
+यू.एस. बैंकॉर्प,OOD,company_names,hi
+ईओजी रिसोर्सेज,OOD,company_names,hi
+ट्रूइस्ट फाइनेंशियल,OOD,company_names,hi
+ओनेओके,OOD,company_names,hi
+जेन्यूइन पार्ट्स,OOD,company_names,hi
+पीजीएई,OOD,company_names,hi
+मर्फी यूएसए,OOD,company_names,hi
+नेक्स्टइरा एनर्जी,OOD,company_names,hi
+डेलेक यूएस होल्डिंग्स,OOD,company_names,hi
+डीटीई एनर्जी,OOD,company_names,hi
+मोसैएक,OOD,company_names,hi
+इलिनोइ टूल वर्क्स,OOD,company_names,hi
+गार्डियन लाइफ इंश्योरेंस कंपनी ऑफ अमेरिका,OOD,company_names,hi
+फ्लोअर,OOD,company_names,hi
+पैसिफिक लाइफ,OOD,company_names,hi
+एमफेनॉल,OOD,company_names,hi
+एईएस,OOD,company_names,hi
+ऑटो-ओनर्स इंश्योरेंस,OOD,company_names,hi
+मोल्सन कोअर्स बीवरेज,OOD,company_names,hi
+आलटाइस यूएसए,OOD,company_names,hi
+यूएफपी इंडस्ट्रीज,OOD,company_names,hi
+जीएक्सओ लॉजिस्टिक्स,OOD,company_names,hi
+ओडीपी,OOD,company_names,hi
+बोइसी कास्केड,OOD,company_names,hi
+ओएन सेमीकंडक्टर,OOD,company_names,hi
+ओशकोश,OOD,company_names,hi
+मैराथन ऑयल,OOD,company_names,hi
+स्केचर्स यूएसए,OOD,company_names,hi
+रिलायंस इंडस्ट्रीज लिमिटेड,ID,company_names,hi
+टाटा कंसल्टेंसी सर्विसेज लिमिटेड,ID,company_names,hi
+एचडीएफसी बैंक लिमिटेड,ID,company_names,hi
+इन्फोसिस लिमिटेड,ID,company_names,hi
+हिंदुस्तान यूनिलीवर लिमिटेड,ID,company_names,hi
+आईसीआईसीआई बैंक लिमिटेड,ID,company_names,hi
+हाउसिंग डेवेलपमेंट फाइनेंस कॉर्पोरेशन लिमिटेड,ID,company_names,hi
+स्टेट बैंक ऑफ इंडिया,ID,company_names,hi
+बजाज फाइनेंस लिमिटेड,ID,company_names,hi
+कोटक महिंद्रा बैंक लिमिटेड,ID,company_names,hi
+विप्रो लिमिटेड,ID,company_names,hi
+भारती एयरटेल लिमिटेड,ID,company_names,hi
+एशियन पेंट्स लिमिटेड,ID,company_names,hi
+एचसीएल टेक्नोलॉजीज लिमिटेड,ID,company_names,hi
+आईटीसी लिमिटेड,ID,company_names,hi
+एक्सिस बैंक लिमिटेड,ID,company_names,hi
+मारुति सुज़ुकी इंडिया लिमिटेड,ID,company_names,hi
+एवेन्यू सुपरमार्ट्स लिमिटेड,ID,company_names,hi
+लार्सन एंड टब्रो लिमिटेड,ID,company_names,hi
+अल्ट्राटेक सीमेंट लिमिटेड,ID,company_names,hi
+बजाज फिनसर्व लिमिटेड,ID,company_names,hi
+नेस्ले इंडिया लिमिटेड,ID,company_names,hi
+जेएसडब्ल्यू स्टील लिमिटेड,ID,company_names,hi
+सन फार्मास्यूटिकल्स इंडस्ट्रीज लिमिटेड,ID,company_names,hi
+आदानी एंटरप्राइजेस लिमिटेड,ID,company_names,hi
+आदानी ग्रीन एनर्जी लिमिटेड,ID,company_names,hi
+टाइटन कंपनी लिमिटेड,ID,company_names,hi
+टाटा स्टील लिमिटेड,ID,company_names,hi
+आदानी पोर्ट्स एंड स्पेशल इकोनॉमिक ज़ोन लिमिटेड,ID,company_names,hi
+हिन्दुस्तान जिंक लिमिटेड,ID,company_names,hi
+डिवाईज़ लैबोरेटरीज़ लिमिटेड,ID,company_names,hi
+पावर ग्रिड कॉर्पोरेशन ऑफ इंडिया लिमिटेड,ID,company_names,hi
+पिडिलाइट इंडस्ट्रीज़ लिमिटेड,ID,company_names,hi
+एनटीपीसी लिमिटेड,ID,company_names,hi
+बजाज ऑटो लिमिटेड,ID,company_names,hi
+टाटा मोटर्स लिमिटेड,ID,company_names,hi
+टेक महिंद्रा लिमिटेड,ID,company_names,hi
+आदानी ट्रांसमिशन लिमिटेड,ID,company_names,hi
+ज़ोमैटो लिमिटेड,ID,company_names,hi
+डाबर इंडिया लिमिटेड,ID,company_names,hi
+ग्रासिम इंडस्ट्रीज़ लिमिटेड,ID,company_names,hi
+वेदांता लिमिटेड,ID,company_names,hi
+श्री सीमेंट लिमिटेड,ID,company_names,hi
+आदानी टोटल गैस लिमिटेड,ID,company_names,hi
+भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड,ID,company_names,hi
+गोदरेज कंज्यूमर प्रोडक्ट्स लिमिटेड,ID,company_names,hi
+महिंद्रा एंड महिंद्रा लिमिटेड,ID,company_names,hi
+एसबीआई कार्ड्स एंड पेमेंट सर्विसेज लिमिटेड,ID,company_names,hi
+कोयला इंडिया लिमिटेड,ID,company_names,hi
+हिंडालको इंडस्ट्रीज़ लिमिटेड,ID,company_names,hi
+नेशनल हेरिटेज सिटी डेवेलपमेंट एंड ऑग्मेंटेशन योजना,OOD,govt_schemes,hi
+यूनिक लैंड पार्सल आईडेंटिफिकेशन नंबर स्कीम (यूल्पिन),OOD,govt_schemes,hi
+युवा स्कीम फॉर यंग ऑथर्स,OOD,govt_schemes,hi
+मिशन फॉर इंटीग्रेटेड डेवेलपमेंट ऑफ हॉर्टिकल्चर (एमआईडीएच),OOD,govt_schemes,hi
+कृषिअन्नाति योजना,OOD,govt_schemes,hi
+नेशनल फूड सिक्योरिटी एक्ट (एनएफएसए),OOD,govt_schemes,hi
+प्रधानमंत्री उच्चतर शिक्षा अभियान (पीएम-उषा),OOD,govt_schemes,hi
+प्रधानमंत्री सूक्ष्म खाद्य प्रसंस्करण उद्यम योजना (पीएम एफएमई),OOD,govt_schemes,hi
+किसान उत्पादक संगठनों का गठन और प्रशारण (एफपीओ),OOD,govt_schemes,hi
+कृषि बुनियादी संरचना कोष (एआईएफ),OOD,govt_schemes,hi
+राष्ट्रीय मधुमक्खी शहद मिशन (एनबीएचएम),OOD,govt_schemes,hi
+"कृषि उत्पादन और पोस्ट-उत्पादन मेकेनिज़ेशन, नवाचारात्मक प्रौद्योगिकियों के साथ संवृद्ध कृषि विकास",OOD,govt_schemes,hi
+भाभा परमाणु अनुसंधान केंद्र (बीएआरसी) के अनुसंधान एवं विकास परियोजनाएं,OOD,govt_schemes,hi
+राजा रमन्ना उन्नत प्रौद्योगिकी केंद्र (आरआरसीएटी) के अनुसंधान एवं विकास परियोजनाएं,OOD,govt_schemes,hi
+ईंधन पुनर्चक्रण परियोजनाएं (एनआरबी),OOD,govt_schemes,hi
+तेज गति परमाणु ईंधन चक्र परियोजनाएं (एफआरएफसीएफ),OOD,govt_schemes,hi
+आयुष औषधी गुणवत्ता एवं उत्पादन संवर्धन योजना (एओगुसी),OOD,govt_schemes,hi
+राष्ट्रीय औषधि शिक्षा और अनुसंधान संस्थान (एनआईपीईआर),OOD,govt_schemes,hi
+ड्रोन और ड्रोन घटक के लिए उत्पादन लिंक्ड प्रोत्साहन (पीएलआई) योजना,OOD,govt_schemes,hi
+निर्यात योजनाओं के लिए व्यापारिक अंतर्दृष्टि योजना (टीआईईएस),OOD,govt_schemes,hi
+अंतरराष्ट्रीय व्यापार पर अनुसंधान केंद्र-सीआरआईटी (डब्ल्यूटीओ अध्ययन केंद्र) के लिए केंद्र,OOD,govt_schemes,hi
+"जूते, चमड़ा और सहायक विकास कार्यक्रम (एफएलएडीपी)",OOD,govt_schemes,hi
+औद्योगिक बुनियादी संरचना उन्नयन योजना (आईआईयूएस),OOD,govt_schemes,hi
+राष्ट्रीय औद्योगिक मार्ग विकास और कार्यान्वयन निधि (एनआईसीडीआईटी),OOD,govt_schemes,hi
+स्टार्टअप इंडिया,OOD,govt_schemes,hi
+स्टार्टअप इंडिया बीज निधि योजना (एसआईएसएफएस),OOD,govt_schemes,hi
+सफेद सामानों (एसी और एलईडी लाइट्स) के लिए उत्पादन संबंधित प्रोत्साहन योजना (पीएलआई),OOD,govt_schemes,hi
+खिलौनों के लिए उत्पादन संबंधित प्रोत्साहन योजना (पीएलआई),OOD,govt_schemes,hi
+जूते और चमड़े क्षेत्र के लिए उत्पादन संबंधित प्रोत्साहन योजना (पीएलआई),OOD,govt_schemes,hi
+नॉर्थ ईस्टर्न इंडस्ट्रियल एंड इन्वेस्टमेंट प्रमोशन पॉलिसी (एनईआईपीपी),OOD,govt_schemes,hi
+नार्थ ईस्ट इंडस्ट्रियल डेवलपमेंट स्कीम (एनईआईडीएस) 2017,OOD,govt_schemes,hi
+केंद्रीय उपकरण पहचान पंजी (सीईआईआर),OOD,govt_schemes,hi
+भारत में टेलीकॉम और नेटवर्किंग उत्पादों के विनिर्माण को प्रोत्साहित करने के लिए प्रोडक्शन लिंक्ड प्रोत्साहन (पीएलआई) योजना,OOD,govt_schemes,hi
+डीप ओशन मिशन,OOD,govt_schemes,hi
+इथेनॉल ब्लेंडेड पेट्रोल प्रोग्राम (ईबीपी),OOD,govt_schemes,hi
+हाउजिंग फॉर ऑल स्कीम,OOD,govt_schemes,hi
+मिड-डे मील स्कीम,OOD,govt_schemes,hi
+नेशनल बीकीपिंग एंड हनी मिशन (एनबीएचएम),OOD,govt_schemes,hi
+प्रोडक्शन लिंक्ड इनसेंटिव स्कीम (पीएलआई),OOD,govt_schemes,hi
+सेल्फ-एम्प्लॉयमेंट एंड टैलेंट यूटिलाइजेशन स्कीम,OOD,govt_schemes,hi
+उडीआईडी प्रोजेक्ट,OOD,govt_schemes,hi
+कंस्ट्रक्शन ऑफ़ ऑफिस एकोमोडेशनकैपिटल आउटले ओन पब्लिक वर्क्स,OOD,govt_schemes,hi
+डेटाबेस रिसर्च इवैल्यूएशन एंड ओथर ऑफिस सपोर्ट प्रोग्राम,OOD,govt_schemes,hi
+"सर्वे, स्टडीज एंड पॉलिसी रिसर्च",OOD,govt_schemes,hi
+इंटीग्रेटेड बिल्डिंग फोर इंस्टीट्यूट ऑफ़ सेक्रेटेरिएट ट्रेनिंग एंड मैनेजमेंट एंड ओथर इंस्टीट्यूट ऑफ़ डिपार्टमेंट ऑफ़ पर्सनल एंड ट्रेनिंग,OOD,govt_schemes,hi
+पेमेंट टू इंडियन स्ट्रैटेजिक पेट्रोलियम रिजर्व लिमिटेड फोर क्रूड ओइल रिजर्व,OOD,govt_schemes,hi
+पेमेंट टू आईएसपीआरएल फोर स्ट्रैटेजिक क्रूड ओइल रिजर्व,OOD,govt_schemes,hi
+ओथर सब्सिडी पेयेबल इन्क्लूडिंग फोर नॉर्थ ईस्टर्न रीजन,OOD,govt_schemes,hi
+फीडस्टॉक सब्सिडी तो बीसीपीएल/असम गैस क्रैकर कॉम्प्लेक्स,OOD,govt_schemes,hi
+ओने-टाइम ग्रांट तो पीएसयू ओएमसी फोर अंडर रिकवरीज इन डोमेस्टिक एलपीजी,OOD,govt_schemes,hi
+कैपिटल सपोर्ट तो ओइल मार्केटिंग कंपनीज,OOD,govt_schemes,hi
+ट्रैफिक फैसिलिटीज यार्ड रिमॉडलिंग एंड ओथर्स,OOD,govt_schemes,hi
+नेशनल मिशन ओन इंटरडिसिप्लिनरी साइबर फिजिकल सिस्टम,OOD,govt_schemes,hi
+इंटीग्रेटेड वूल डेवलपमेंट प्रोग्राम,OOD,govt_schemes,hi
+इंटरनेशनल कोऑपरेशन स्कीम,OOD,govt_schemes,hi
+"स्टडीज, पब्लिसिटी & इंटरनेशनल कोऑपरेशन",OOD,govt_schemes,hi
+"ओशन सर्विस, मॉडलिंग, एप्लीकेशन, रिसोर्स एंड टेक्नोलॉजी",OOD,govt_schemes,hi
+प्रौद्योगिकी के माध्यम से पब्लिक वितरण प्रणाली में आधुनिकीकरण और सुधार योजना (स्मार्ट-पीडीएस),ID,govt_schemes,hi
+इंडियन स्ट्रैटेजिक पेट्रोलियम रिजर्व लिमिटेड फेज ई,ID,govt_schemes,hi
+उपभोक्ता जागरूकता विज्ञापन और मूल्य निगरानी,ID,govt_schemes,hi
+फार्मा मेड-टेक में अनुसंधान और नवाचार को बढ़ावा देना (प्रिप),ID,govt_schemes,hi
+उद्योगिक मूल्य वृद्धि के लिए कौशल मजबूती (स्ट्राइव) - ईएएपी,ID,govt_schemes,hi
+समुद्री उत्पाद निर्यात विकास प्राधिकरण (एमपेडा),ID,govt_schemes,hi
+प्रकाशन और आयोडोप्स परियोजना (ब्रिट),ID,govt_schemes,hi
+प्रधानमंत्री भारतीय जन औषधि परियोजना (पीएमबीजेपी),ID,govt_schemes,hi
+प्रधानमंत्री उज्ज्वला योजना,ID,govt_schemes,hi
+सोवरिन गोल्ड बॉन्ड स्कीम,ID,govt_schemes,hi
+प्रधानमंत्री श्रम योगी मान-धन,ID,govt_schemes,hi
+कपिला कलम प्रोग्राम,ID,govt_schemes,hi
+एलपीजी कनेक्शन तो पूर हाउसहोल्ड,ID,govt_schemes,hi
+जीवंत गाँव कार्यक्रम,ID,govt_schemes,hi
+प्रधानमंत्री आयुष्मान भारत स्वास्थ्य बुनियादी ढांचा मिशन,ID,govt_schemes,hi
+मिशन शक्ति (महिलाओं के संरक्षण और सशक्तिकरण के लिए मिशन),ID,govt_schemes,hi
+नेशनल स्पोर्ट्स टैलेंट सर्च स्कीम,ID,govt_schemes,hi
+टूल रूम्स & टेक्निकल इंस्टीट्यूशंस,ID,govt_schemes,hi
+अटल भूजल योजना (एबीवाई),ID,govt_schemes,hi
+कृषि बुनियादी संरचना और विकास को अतिरिक्त स्थानांतरण,ID,govt_schemes,hi
+अन्य भेद्य जमातों के विकास के लिए छाता योजना,ID,govt_schemes,hi
+ट्रांसफर तो सेंट्रल रोड एंड इंफ्रास्ट्रक्चर फंड,ID,govt_schemes,hi
+बाजार हस्तक्षेप योजना और मूल्य समर्थन योजना (एमआईएस- पीएसएस),ID,govt_schemes,hi
+प्रधानमंत्री मत्स्य सम्पदा योजना,ID,govt_schemes,hi
+सहकार प्रज्ञा इनिशिएटिव,ID,govt_schemes,hi
+शहरी पुनर्जीवन मिशन: अमृत और स्मार्ट सिटीज मिशन,ID,govt_schemes,hi
+मिशन कर्मयोगी,ID,govt_schemes,hi
+हैंडीक्राफ्ट क्लस्टर डेवलपमेंट प्रोग्राम हैंडीक्राफ्ट मेगा क्लस्टर,ID,govt_schemes,hi
+गोल्ड मोनेटाइजेशन स्कीम,ID,govt_schemes,hi
+आयुष्मान भारत-प्रधानमंत्री जन आरोग्य योजना,ID,govt_schemes,hi
+स्कीम फोर प्रमोशन ऑफ़ फ्लैगिंग ऑफ़ मर्चेंट शिप्स इन इंडिया,ID,govt_schemes,hi
+"जम्मू और कश्मीर, हिमाचल प्रदेश और उत्तराखंड के लिए विशेष श्रेणी के राज्यों के लिए पैकेज",ID,govt_schemes,hi
+नीला क्रांति,ID,govt_schemes,hi
+साइंस एंड टेक्नोलॉजी इंस्टीट्यूशनल एंड ह्यूमन कैपेसिटी बिल्डिंग,ID,govt_schemes,hi
+प्रोजेक्ट मैनेजमेंट एक्सपेंडिचर,ID,govt_schemes,hi
+अल्पसंख्यकों के विकास के लिए छाता योजना,ID,govt_schemes,hi
+नेशनल हैंडीक्राफ्ट डेवलपमेंट प्रोग्राम,ID,govt_schemes,hi
+यूनियन टेरिटरी ऑफ जम्मू और कश्मीर और लद्दाख के लिए औद्योगिक विकास योजना,ID,govt_schemes,hi
+इंटीग्रेटेड प्रोसेसिंग डेवेलपमेंट स्कीम,ID,govt_schemes,hi
+आत्मनिर्भर भारत अभियान,ID,govt_schemes,hi
+कामी वक्फ बोर्ड तरक्कियाती स्कीम एंड सहरी वक्फ संपत्ति विकास योजना,ID,govt_schemes,hi
+कौशल प्राप्ति और आजीविका संवर्धन के लिए जागरूकता (संकल्प) - ईएएपी,ID,govt_schemes,hi
+राष्ट्रीय चक्रवाती जोखिम संयंत्र,ID,govt_schemes,hi
+नेशनल हैंडलूम डेवलपमेंट प्रोग्राम,ID,govt_schemes,hi
+प्रधानमंत्री फॉर्मलाइजेशन ऑफ माइक्रो फ़ूड प्रोसेसिंग एंटरप्राइजेज स्कीम,ID,govt_schemes,hi
+केंद्र संचित परियोजना किशोर सहकारिता को मजबूत करने के लिए साइबर यांत्रिक प्रवेश,ID,govt_schemes,hi
+अनुसूचित जातियों के विकास के लिए छाता योजना,ID,govt_schemes,hi
+नेशनल सोशल असिस्टेंस प्रोग्राम,ID,govt_schemes,hi
+प्रधानमंत्री किसान ऊर्जा सुरक्षा एवं उत्थान महाभियान,ID,govt_schemes,hi
+इस्टैब्लिशमेंट ऑफ़ न्यू टेक्नोलॉजी केंद्रों,ID,govt_schemes,hi
+पेट्रोकेमिकल के नए योजनाएं,ID,govt_schemes,hi
+अफजल,OOD,proper_nouns,hi
+अलउद्दीन,OOD,proper_nouns,hi
+बिराजभूषण,OOD,proper_nouns,hi
+बृजश्वैर,OOD,proper_nouns,hi
+छगना,OOD,proper_nouns,hi
+गफ्फार,OOD,proper_nouns,hi
+कयामुद्दीन,OOD,proper_nouns,hi
+मेघराज,OOD,proper_nouns,hi
+प्रफहूल,OOD,proper_nouns,hi
+राजश्री,OOD,proper_nouns,hi
+रामबृज,OOD,proper_nouns,hi
+रणधीर,OOD,proper_nouns,hi
+शोइबा,OOD,proper_nouns,hi
+सुधदेव,OOD,proper_nouns,hi
+सूरजभान,OOD,proper_nouns,hi
+स्वर्णजीत,OOD,proper_nouns,hi
+तौफिक,OOD,proper_nouns,hi
+विठल,OOD,proper_nouns,hi
+ऋषभ,OOD,proper_nouns,hi
+शगुफ्ता,OOD,proper_nouns,hi
+थैचर मोंटगोमरी,OOD,proper_nouns,hi
+वौघ्न फिट्जगेराल्ड,OOD,proper_nouns,hi
+कैलिओप फर्नांडेज,OOD,proper_nouns,hi
+गिडियोन मोंटगोमरी,OOD,proper_nouns,hi
+ऑगस्टस ब्लेक,OOD,proper_nouns,hi
+लॉसन मोंटगोमरी,OOD,proper_nouns,hi
+एटिकस मोंटगोमरी,OOD,proper_nouns,hi
+इद्रिस जमालुद्दीन अंसारी,OOD,proper_nouns,hi
+जायद फहद सिद्दीकी,OOD,proper_nouns,hi
+अमोघ जलन,OOD,proper_nouns,hi
+खुमनथेम राधाप्यारी देवी,OOD,proper_nouns,hi
+तंगखुल,OOD,proper_nouns,hi
+सी.न.आर. राओ,OOD,proper_nouns,hi
+वैनू बप्पू,OOD,proper_nouns,hi
+आ. एम. हारून-आर-रशीद,OOD,proper_nouns,hi
+माइलस्वामी अन्नादुरई,OOD,proper_nouns,hi
+शिवा अय्यादुरई,OOD,proper_nouns,hi
+भाईचुंग भूटिया,OOD,proper_nouns,hi
+वृत्‍ति,OOD,proper_nouns,hi
+अफशा,OOD,proper_nouns,hi
+कृष्णल,OOD,proper_nouns,hi
+कयूम,OOD,proper_nouns,hi
+ममोइता,OOD,proper_nouns,hi
+मनोइश,OOD,proper_nouns,hi
+मुजफ्फर,OOD,proper_nouns,hi
+पंकजशील,OOD,proper_nouns,hi
+रबप्रीत,OOD,proper_nouns,hi
+ओजस,OOD,proper_nouns,hi
+नूरझन,OOD,proper_nouns,hi
+पिउएश,OOD,proper_nouns,hi
+रौफ,OOD,proper_nouns,hi
+मोहन पिल्लई,OOD,proper_nouns,hi
+पालनाटी ब्राह्मणैदु,OOD,proper_nouns,hi
+मधन,ID,proper_nouns,hi
+अकथरी,ID,proper_nouns,hi
+अबू,ID,proper_nouns,hi
+छत्रपाल,ID,proper_nouns,hi
+अरशद,ID,proper_nouns,hi
+उमेशकुमार,ID,proper_nouns,hi
+कूकी,ID,proper_nouns,hi
+बेथिना जोशिता चौधरी,ID,proper_nouns,hi
+बशांति,ID,proper_nouns,hi
+कैशव,ID,proper_nouns,hi
+खड़क,ID,proper_nouns,hi
+आहिम,ID,proper_nouns,hi
+फोर,ID,proper_nouns,hi
+आजीव,ID,proper_nouns,hi
+फरहीन,ID,proper_nouns,hi
+अजकती,ID,proper_nouns,hi
+बंटू,ID,proper_nouns,hi
+दीपनारायण,ID,proper_nouns,hi
+देऊ,ID,proper_nouns,hi
+दिलशाह,ID,proper_nouns,hi
+इरफान,ID,proper_nouns,hi
+एसआरएफ,ID,proper_nouns,hi
+ढालचंद,ID,proper_nouns,hi
+बच्चे,ID,proper_nouns,hi
+इलायत,ID,proper_nouns,hi
+कहकसा,ID,proper_nouns,hi
+मिठू,ID,proper_nouns,hi
+बच्चा,ID,proper_nouns,hi
+अखलक,ID,proper_nouns,hi
+अमजत,ID,proper_nouns,hi
+रौनफ,ID,proper_nouns,hi
+अरविंद,ID,proper_nouns,hi
+एसएस प्रणय,ID,proper_nouns,hi
+भीसन,ID,proper_nouns,hi
+अभिन्वव,ID,proper_nouns,hi
+आनंदवती,ID,proper_nouns,hi
+ढीसा,ID,proper_nouns,hi
+दीपक,ID,proper_nouns,hi
+गणेश,ID,proper_nouns,hi
+बलवीर,ID,proper_nouns,hi
+प्रणब,ID,proper_nouns,hi
+बग्गा,ID,proper_nouns,hi
+आंसू,ID,proper_nouns,hi
+आगंद,ID,proper_nouns,hi
+अर्पित,ID,proper_nouns,hi
+अमरनाथ,ID,proper_nouns,hi
+अशरफ,ID,proper_nouns,hi
+छोटेलाल,ID,proper_nouns,hi
+अड्डागड़ा वेंकट शिवराम,ID,proper_nouns,hi
+बेंजामिन रीड,ID,proper_nouns,hi
