@@ -35,3 +35,14 @@ The Tamil benchmark covers 7 categories:
 6. education_literature
 7. navigation
 
+## Citation
+```
+@article{anand2024enhancingoutofvocabularyperformanceindian,
+      title={Enhancing Out-of-Vocabulary Performance of Indian TTS Systems for Practical Applications through Low-Effort Data Strategies}, 
+      author={Srija Anand and Praveen Srinivasa Varadhan and Ashwin Sankar and Giri Raju and Mitesh M. Khapra},
+      year={2024},
+      eprint={2407.13435},
+      url={https://arxiv.org/abs/2407.13435}, 
+}
+```
+
