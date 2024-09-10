@@ -1,4 +1,5 @@
-# IndicOOV
+# IndicOOV: Enhancing Out-of-Vocabulary Performance of Indian TTS Systems for Practical Applications through Low-Effort Data Strategies
+
 [![Paper](https://img.shields.io/badge/arXiv-2403.16973-brightgreen.svg?style=flat-square)](https://arxiv.org/pdf/2407.13435)
 [![Website](https://img.shields.io/badge/website-indicoov)](https://ai4bharat.iitm.ac.in/indicoov/)
 
