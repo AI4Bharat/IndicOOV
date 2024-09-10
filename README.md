@@ -36,6 +36,7 @@ The Tamil benchmark covers 7 categories:
 7. navigation
 
 ## Citation
+If you want to use our benchmark, templates or recording scripts, please cite our work as follows:
 ```
 @article{anand2024enhancingoutofvocabularyperformanceindian,
       title={Enhancing Out-of-Vocabulary Performance of Indian TTS Systems for Practical Applications through Low-Effort Data Strategies}, 
@@ -45,4 +46,7 @@ The Tamil benchmark covers 7 categories:
       url={https://arxiv.org/abs/2407.13435}, 
 }
 ```
+
+We used the implementation of VITS by [jaywalnut310](https://github.com/jaywalnut310/vits) and the [Indic-TTS](https://github.com/AI4Bharat/Indic-TTS) Fastpitch model released by AI4Bharat trained in the Coqui framework.
+
 
